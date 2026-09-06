@@ -1,0 +1,6 @@
+Modèle,AUC-ROC,AP (PR-AUC),Précision,Rappel,F1-score
+XGBoost,0.6594,0.1854,0.4545,0.008,0.0156
+Random Forest,0.6539,0.18,0.0,0.0,0.0
+Régression logistique,0.6504,0.1727,0.3125,0.004,0.0079
+XGBoost + pondération,0.65,0.1788,0.1487,0.4893,0.2281
+XGBoost + SMOTE,0.636,0.1656,0.4167,0.0119,0.0232

@@ -1,0 +1,9 @@
+Variable,Sous-groupe,Effectif test,Positifs,Taux réadmission,AUC-ROC
+race,AfricanAmerican,2504,231,9.23%,0.68
+race,Asian,96,9,9.38%,n/a (effectif insuffisant)
+race,Caucasian,10522,954,9.07%,0.65
+race,Hispanic,286,30,10.49%,0.675
+race,Inconnu,361,22,6.09%,0.689
+race,Other,229,11,4.80%,n/a (effectif insuffisant)
+gender,Female,7507,664,8.85%,0.663
+gender,Male,6491,593,9.14%,0.655

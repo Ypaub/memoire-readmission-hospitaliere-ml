@@ -1,0 +1,7 @@
+Capacité de suivi,Seuil,Patients suivis,Réadmissions détectées,Taux de détection (rappel),Précision,Lift vs aléatoire
+10% des sortants,0.15,1400,309,24.6%,22.1%,2.46
+15% des sortants,0.129,2100,395,31.4%,18.8%,2.09
+20% des sortants,0.115,2800,482,38.3%,17.2%,1.92
+25% des sortants,0.105,3500,567,45.1%,16.2%,1.8
+30% des sortants,0.097,4200,640,50.9%,15.2%,1.7
+40% des sortants,0.084,5599,770,61.3%,13.8%,1.53

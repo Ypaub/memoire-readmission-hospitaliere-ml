@@ -1,0 +1,16 @@
+variable,importance_shap,importance_relative,libelle_clinique
+discharge_disposition_id_3,0.1348474,15.0,Sortie : Transfert en établissement de soins infirmiers (SNF)
+age_num,0.08789471,9.7,age_num
+number_inpatient,0.086321846,9.6,number_inpatient
+diag_1_groupe_Circulatoire,0.08231841,9.1,diag_1_groupe_Circulatoire
+discharge_disposition_id_22,0.06835788,7.6,Sortie : Transfert vers un établissement de réadaptation
+time_in_hospital,0.06581598,7.3,time_in_hospital
+num_medications,0.057020113,6.3,num_medications
+num_lab_procedures,0.05186715,5.8,num_lab_procedures
+total_visites_anterieures,0.05106045,5.7,total_visites_anterieures
+nb_traitements_actifs,0.043372057,4.8,nb_traitements_actifs
+number_diagnoses,0.04165107,4.6,number_diagnoses
+intensite_soins,0.036447633,4.0,intensite_soins
+discharge_disposition_id_6,0.033501197,3.7,Sortie : Retour à domicile avec service de soins à domicile
+discharge_disposition_id_5,0.031281136,3.5,Sortie : Transfert vers un autre établissement de soins
+discharge_disposition_id_2,0.03001842,3.3,Sortie : Transfert vers un autre hôpital de court séjour
